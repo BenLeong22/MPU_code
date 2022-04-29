@@ -1,0 +1,32 @@
+<SpecialInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<System>
+<SysAuthor>SMG-CPT</SysAuthor>
+<SysPubdate>2022-02-19 16:32 GMT+8</SysPubdate>
+<SysLanguage/>
+</System>
+<Custom>
+<SpecialInfoReport>
+<Inforce>0</Inforce>
+<ValidFor>2022-02-19 16:32 GMT+8</ValidFor>
+<ExpireIn Unit="Hour"/>
+<Title>
+<Chinese/>
+<Portuguese/>
+<English/>
+</Title>
+<Description>
+<Chinese/>
+<Portuguese/>
+<English/>
+<Chinese_feed/>
+<Portuguese_feed/>
+<English_feed/>
+</Description>
+<TTS>
+<Chinese/>
+<Portuguese/>
+<English>Heavy rain has fallen or is expected to fall over extensive areas, exceeding 80 millimetres in an hour, and is likely to continue.</English>
+</TTS>
+</SpecialInfoReport>
+</Custom>
+</SpecialInfo>
